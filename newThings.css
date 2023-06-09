@@ -64,4 +64,15 @@ html {
 .new_rec p{
     font-size: 16px;
     color: darkgrey;
+    margin-bottom: 5rem;
+}
+
+.new_glass {
+    text-align: left;
+    font-size: 24px;
+}
+
+.new_glass_img {
+    background-color: yellow;
+    height: 300px;
 }
