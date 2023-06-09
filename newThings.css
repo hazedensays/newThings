@@ -1,0 +1,67 @@
+@charset "uft-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+html {
+    font-size: 14px;
+    color: #000;
+}
+
+.center {
+    width: 100%;
+    max-width: 1240px;
+    margin: 0 auto;
+}
+
+.h_c {
+    height: 200px;
+    background-color: pink;
+}
+
+.m_c {
+    height: auto;
+}
+
+.f_c {
+    height: 200px;
+    background-color: wheat;
+}
+
+/* =================================================== */
+
+.newThings {
+    text-align: center;
+}
+
+.new_title h2 {
+    font-size: 44px;
+}
+
+/* .new_title ol {
+    float: left;
+} */
+
+.new_rec {
+    text-align: left;
+}
+
+.new_rec h3{
+    font-size: 24px;
+}
+
+.new_rec p{
+    font-size: 16px;
+    color: darkgrey;
+}
